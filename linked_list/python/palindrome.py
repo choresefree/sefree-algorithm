@@ -1,4 +1,5 @@
-from linked_list.python.link_list import ListNode
+from link_list import ListNode
+from typing import Optional
 
 
 class Solution:
